@@ -4,6 +4,15 @@
     margin: 0 auto;
 }
 
+.miniatura{
+    /* comportamento inline-block que continua semelhante
+    a texto porém reconhece margens e dimensões */
+    display: inline-block;
+    margin: 5px;
+}
+.miniatura img{
+    width: 150px;
+}
 
 body{
     font-family: 'Oswald', sans-serif;
