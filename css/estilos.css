@@ -8,10 +8,10 @@
     /* comportamento inline-block que continua semelhante
     a texto porém reconhece margens e dimensões */
     display: inline-block;
-    margin: 5px;
+    margin: 6px;
 }
 .miniatura img{
-    width: 150px;
+    width: 180px;
 }
 
 body{
